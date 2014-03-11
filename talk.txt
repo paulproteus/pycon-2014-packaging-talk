@@ -1,0 +1,100 @@
+$ python
+
+$ python
+>>> import numbers
+>>> numbers
+>>> import sys
+>>> sys.path
+[...]
+
+
+module
+
+http://wayback.archive-it.org/all/20121103061920im_/http://static.regretsy.com/wp-content/uploads/2012/10/cookie.jpg
+
+
+$ python
+>>> import etsy
+ImportError
+
+
+https://i1.ytimg.com/vi/vJhq9eq_eJg/default.jpg
+
+pypi [etsy wrapper]
+
+https://pypi.python.org/pypi/python-etsy/0.1.2
+
+>>> import python-etsy
+SyntaxError: invalid syntax
+
+>>> from etsy import Etsy
+>>> import etsy
+
+"distribution"
+aka sdist
+
+
+$ sudp pip install python-etsy
+
+http://www.tofugu.com/wp-content/uploads/2012/01/genki-sudo-world-order.jpg
+
+optional sudo, http://1.bp.blogspot.com/_asJ1jzmsapk/TGlLEMmd9_I/AAAAAAAAA74/m0dGwK56QDg/s1600/IMG_3734.jpg
+
+
+$ pip install --user python-etsy
+
+>>> import etsy
+etsy
+
+module: etsy
+distribution: python-etsy
+
+Q. Where does the code come from?
+
+python-etsy's is on PyPI
+
+http://media-cdn.tripadvisor.com/media/photo-s/03/33/8e/5c/kwality-ice-cream.jpg
+
+* there is another "etsy" on pypi
+* it provides no download link
+* If you try to pip install it, you get one of two bizarre failures
+
+$ pip install --user https://pypi.python.org/packages/source/p/python-etsy/python-etsy-0.1.2.tar.gz#md5=e383d3667e20062f486fdace4790a53c
+
+
+Q. What if you do pip install etsy
+
+http://thumbs.dreamstime.com/z/green-leaf-water-reflection-4266135.jpghttp://thumbs.dreamstime.com/z/green-leaf-water-reflection-4266135.jpg
+
+* module
+* distribution
+
+just one Python interpreter
+no sudo
+no virtualenv
+
+Q. What's a package?
+
+“dotted module names”
+
+"A.B designates a submodule named B in a package named A."
+
+>>> import sound.effects.echo
+
+
+
+</talk>
+Q. What if you do pip install etsy
+
+
+Q. What's a package
+
+$ python setup.py develop --user
+
+
+
+
+$ pip uninstall etsy
+$ pip uninstall python-etsy
+
+
