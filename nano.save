@@ -1,0 +1,7 @@
+>>> import sys
+>>> sys.path
+['',
+# ...
+ '/home/me/.local/lib/python2.7/site-packages',
+]
+
